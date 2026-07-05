@@ -14,10 +14,6 @@
 </header>
 
 <!-- ここから下に、通常のMarkdown（本文）を書きます -->
----
-title: "ROS2 Study Users Group"
----
-
 # Welcom to ROS2 Study Users Group.
  (Building...)
 
