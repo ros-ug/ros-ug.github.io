@@ -2,7 +2,7 @@
 <header style="display: flex; justify-content: space-between; align-items: center; padding: 15px 0; border-bottom: 2px solid #ddd; margin-bottom: 20px;">
   
   <!-- 左側：サイトのロゴやタイトル -->
-  <span style="font-size: 24px; font-weight: bold;">My Website</span>
+  <span style="font-size: 24px; font-weight: bold;">ROS2 Study Users Group</span>
   
   <!-- 右側：ナビゲーションメニュー -->
   <nav style="display: flex; gap: 20px;">
