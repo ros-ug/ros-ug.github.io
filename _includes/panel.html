@@ -1,0 +1,36 @@
+<aside aria-label="Panel" id="panel-wrapper" class="col-xl-3 ps-2 text-muted">
+  <div class="access">
+    <!-- 保持原有组件：最近更新 -->
+    {% include_cached update-list.html lang=page.lang %}
+    <!-- 保持原有组件：热门标签 -->
+    {% include_cached trending-tags.html lang=page.lang %}
+  </div>
+
+  <!-- 💡 这里是你自定义的外部链接区域 -->
+  <div class="access mt-4">
+    <section id="custom-links">
+      <h2 class="panel-heading">推荐链接</h2>
+      <ul class="content list-unstyled">
+        <li class="text-truncate mt-2">
+          <a href="https://www.openrobotics.org/" target="_blank" rel="noopener" class="text-decoration-none">
+            Open Source Robotics Foundation
+          </a>
+        </li>
+        <!--
+        <li class="text-truncate mt-2">
+          <a href="https://rosjp.connpass.com/" target="_blank" rel="noopener" class="text-decoration-none">
+            🇯🇵 ROS Japan UG
+          </a>
+        </li>
+        -->
+      </ul>
+    </section>
+  </div>
+
+  <!-- 保持原有的文章目录（TOC）逻辑 -->
+  {% if page.toc and page.layout == 'post' or page.layout == 'page' %}
+    <div id="toc-wrapper" class="ps-0 pe-4">
+      {% include toc.html %}
+    </div>
+  {% endif %}
+</aside>
