@@ -1,11 +1,11 @@
 ---
-title: About Tokyo ROS2 Study Group
+title: About the Tokyo ROS2 Study Users Group
 date: 2026-07-06 22:38:00 +0900
 categories: [通知, 事務]          # 分类：支持多层级。这里代表“技术”大类下的“前端”子类
 tags: [Notice, github, ROS2]    # 标签：可以写多个，用逗号隔开
 ---
 
-## 东京ROS2研究会 (Tokyo ROS2 Study Group)
+## 东京ROS2研究会 (Tokyo ROS2 Study Users Group)
 本研究会以 **ROS2 技术交流与学习** 为主要目的，希望为东京及日本各地的ROS开发者、机器人爱好者提供一个轻松、开放的ROS2技术交流平台。
 
 ## 欢迎加入的人群
