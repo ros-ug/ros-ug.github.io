@@ -6,5 +6,5 @@ categories: [technology, c-lang]
 tags: [c-lang, advanced]
 ---
 
-2026-07-06 C语言(高级版)
+2026-07-07 C语言(高级版)
 Table of contents
