@@ -6,5 +6,5 @@ categories: [technology, c-lang]
 tags: [c-lang, basic]
 ---
 
-2026-07-06 C语言(基础版)
+2026-07-07 C语言(基础版)
 Table of contents
