@@ -52,10 +52,12 @@ platforms:
 # 分类和标签的别名映射（用于前端展示）
 translation:
   categories:
-    notice: "通知公告"
+    notice: "📢 通知公告"
     c-lang: "C语言"
     python: "Python"
     basic: "🟢 基础版"
     intermediate: "🟡 进阶版"
     advanced: "🔴 高级版"
     technology: "技术"
+    trends: "🔥技术动态/前沿跟踪"
+    community: 社区
